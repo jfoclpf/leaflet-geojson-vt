@@ -16,9 +16,9 @@ npm install leaflet-geojson-vt
 
 - Quick use:
 
-```js
+```html
 <script src="https://unpkg.com/geojson-vt@3.2.0/geojson-vt.js"></script>
-<script src="[path to js]/leaflet-geojson-vt.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/leaflet-geojson-vt/src/leaflet-geojson-vt.min.js"></script>
 ```
 
 ## Usage
